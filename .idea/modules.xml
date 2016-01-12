@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jmTempCool.iml" filepath="$PROJECT_DIR$/jmTempCool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ip-widget.iml" filepath="$PROJECT_DIR$/ip-widget.iml" />
     </modules>
   </component>
 </project>

@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">jmTempCool</string>
-    <string name="outsideT">Temperatura</string>
-    <string name="clockWidget">Reloj Temperatura</string>
+    <string name="app_name">ADB IP</string>
 </resources>

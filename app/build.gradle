@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 15
-    buildToolsVersion "23.0.1"
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.winca.jmtempcool"
+        applicationId "com.adearbo.ipwidget"
         minSdkVersion 15
-        targetSdkVersion 15
+        targetSdkVersion 23
     }
 
     buildTypes {
@@ -19,5 +19,4 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:18.0.0'
 }
